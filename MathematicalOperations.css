@@ -1,0 +1,84 @@
+button:hover{
+    background-color: aqua;
+}
+
+#bdy{
+    background-image: url(bg.png);
+    background-size: cover;
+}
+
+#par {
+    width: 390px;
+    height: 620px;
+    background-image: url(Calculator.png);
+    background-size: cover;
+    border-radius: 25px;
+    position: relative;
+    left: 35%;
+}
+
+#wide{
+    width: 330px;
+    height: 80px;
+    background-image: linear-gradient(aqua,aquamarine);
+    position: relative;
+    top: 3%;
+    left: 5.5%;
+    font-size: xx-large;
+    text-align: right;
+    border-radius: 15px;
+    overflow: hidden; 
+    border: 1px solid black;
+    padding: 10px;    
+}
+
+#btn1,#btn3,#btn8,#btn13,#btn18,#btn23{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 6%;
+    left: 5%;
+    font-size: large;
+    border-radius: 25px;
+}
+
+#btn2,#btn4,#btn9,#btn14,#btn19,#btn24{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 6%;
+    left: 10%;
+    font-size: large;
+    border-radius: 25px;
+}
+
+#btn5,#btn28,#btn10,#btn15,#btn20,#btn25{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 6%;
+    left: 15%;
+    font-size: large;
+    border-radius: 25px;
+}
+
+#btn6,#btn11,#btn16,#btn21,#btn26{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 6%;
+    left: 20%;
+    font-size: large; 
+    border-radius: 25px;
+}
+
+#btn7,#btn12,#btn17,#btn22,#btn27{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 6%;
+    left: 25%;
+    font-size: large;
+    border-radius: 25px;
+}
+
